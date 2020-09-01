@@ -1,0 +1,29 @@
+c:\users\burak\onedrive\belgeler\visual studio 2017\Projects\SesAnalizi\SesAnalizi\bin\Debug\SesAnalizi.exe.config
+c:\users\burak\onedrive\belgeler\visual studio 2017\Projects\SesAnalizi\SesAnalizi\bin\Debug\SesAnalizi.exe
+c:\users\burak\onedrive\belgeler\visual studio 2017\Projects\SesAnalizi\SesAnalizi\bin\Debug\SesAnalizi.pdb
+c:\users\burak\onedrive\belgeler\visual studio 2017\Projects\SesAnalizi\SesAnalizi\obj\Debug\SesAnalizi.csprojResolveAssemblyReference.cache
+c:\users\burak\onedrive\belgeler\visual studio 2017\Projects\SesAnalizi\SesAnalizi\obj\Debug\SesAnalizi.Properties.Resources.resources
+c:\users\burak\onedrive\belgeler\visual studio 2017\Projects\SesAnalizi\SesAnalizi\obj\Debug\SesAnalizi.csproj.GenerateResource.Cache
+c:\users\burak\onedrive\belgeler\visual studio 2017\Projects\SesAnalizi\SesAnalizi\obj\Debug\SesAnalizi.exe
+c:\users\burak\onedrive\belgeler\visual studio 2017\Projects\SesAnalizi\SesAnalizi\obj\Debug\SesAnalizi.pdb
+c:\users\burak\onedrive\belgeler\visual studio 2017\Projects\SesAnalizi\SesAnalizi\obj\Debug\SesAnalizi.SesAnalizi.resources
+C:\V3.1\SesAnalizi\SesAnalizi\bin\Debug\SesAnalizi.exe.config
+C:\V3.1\SesAnalizi\SesAnalizi\bin\Debug\SesAnalizi.exe
+C:\V3.1\SesAnalizi\SesAnalizi\bin\Debug\SesAnalizi.pdb
+C:\V3.1\SesAnalizi\SesAnalizi\obj\Debug\SesAnalizi.csprojResolveAssemblyReference.cache
+C:\V3.1\SesAnalizi\SesAnalizi\obj\Debug\SesAnalizi.SesAnalizi.resources
+C:\V3.1\SesAnalizi\SesAnalizi\obj\Debug\SesAnalizi.Properties.Resources.resources
+C:\V3.1\SesAnalizi\SesAnalizi\obj\Debug\SesAnalizi.csproj.GenerateResource.Cache
+C:\V3.1\SesAnalizi\SesAnalizi\obj\Debug\SesAnalizi.exe
+C:\V3.1\SesAnalizi\SesAnalizi\obj\Debug\SesAnalizi.pdb
+C:\Users\burak\OneDrive\Belgeler\Visual Studio 2017\Projects\SES ANALİZİ SON\SesAnalizi\SesAnalizi\bin\Debug\SesAnalizi.exe.config
+C:\Users\burak\OneDrive\Belgeler\Visual Studio 2017\Projects\SES ANALİZİ SON\SesAnalizi\SesAnalizi\bin\Debug\SesAnalizi.exe
+C:\Users\burak\OneDrive\Belgeler\Visual Studio 2017\Projects\SES ANALİZİ SON\SesAnalizi\SesAnalizi\bin\Debug\SesAnalizi.pdb
+C:\Users\burak\OneDrive\Belgeler\Visual Studio 2017\Projects\SES ANALİZİ SON\SesAnalizi\SesAnalizi\obj\Debug\SesAnalizi.csprojResolveAssemblyReference.cache
+C:\Users\burak\OneDrive\Belgeler\Visual Studio 2017\Projects\SES ANALİZİ SON\SesAnalizi\SesAnalizi\obj\Debug\SesAnalizi.SesAnalizi.resources
+C:\Users\burak\OneDrive\Belgeler\Visual Studio 2017\Projects\SES ANALİZİ SON\SesAnalizi\SesAnalizi\obj\Debug\SesAnalizi.Properties.Resources.resources
+C:\Users\burak\OneDrive\Belgeler\Visual Studio 2017\Projects\SES ANALİZİ SON\SesAnalizi\SesAnalizi\obj\Debug\SesAnalizi.csproj.GenerateResource.Cache
+C:\Users\burak\OneDrive\Belgeler\Visual Studio 2017\Projects\SES ANALİZİ SON\SesAnalizi\SesAnalizi\obj\Debug\SesAnalizi.exe
+C:\Users\burak\OneDrive\Belgeler\Visual Studio 2017\Projects\SES ANALİZİ SON\SesAnalizi\SesAnalizi\obj\Debug\SesAnalizi.pdb
+C:\Users\burak\OneDrive\Belgeler\Visual Studio 2017\Projects\SES ANALİZİ SON\SesAnalizi\SesAnalizi\obj\Debug\Interop.AutoItX3Lib.dll
+C:\Users\burak\OneDrive\Belgeler\Visual Studio 2017\Projects\SES ANALİZİ SON\SesAnalizi\SesAnalizi\obj\Debug\SesAnalizi.csproj.ResolveComReference.cache
