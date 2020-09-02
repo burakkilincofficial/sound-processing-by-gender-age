@@ -1,19 +1,23 @@
-# sound-processing-by-gender-age
+# Sound-processing-by-gender-age
 
 	The sound which consisting of .wav sound files, processing via C# on windows form application.
  
  # Description
  
-	This project has been developed as the graduated thesis based based C# development languages at universityy, with Gokhan UZER who is my colleagues in Karadeniz Technical University 
+	This project has been developed as the graduated thesis based based C# development languages 
+	at universityy, with Gokhan UZER who is my colleagues in Karadeniz Technical University 
 	
 ## Installation
 
-	It just need to visual studio in order to run the ##.sln file
-	Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+	-1 It just need to visual studio in order to run the ***.sln*** file
+	```
+	git clone git@github.com:burakkilincofficial/sound-processing-by-gender-age.git
+	```
+	
+	-2.1 Open the ***Visual Studio*** console tool from start menu
+	-2.2 Navigate to project folder (which already contains an executable)
+	-2.3 Run:  ``` msbuild myproject.sln ``` or ``` msbuild myproject.sln /p:Configuration=Release ```
 
-```bash
-pip install foobar
-```
 
 ## Usage
 
