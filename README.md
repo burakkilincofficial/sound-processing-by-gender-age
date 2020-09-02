@@ -9,14 +9,14 @@
 	
 ## Installation
 
-	-1 It just need to visual studio in order to run the ***.sln*** file
+	- It just need to visual studio in order to run the ***.sln*** file
 	```
 	git clone git@github.com:burakkilincofficial/sound-processing-by-gender-age.git
 	```
 	
-	-2.1 Open the ***Visual Studio*** console tool from start menu
-	-2.2 Navigate to project folder (which already contains an executable)
-	-2.3 Run:  ``` msbuild myproject.sln ``` or ``` msbuild myproject.sln /p:Configuration=Release ```
+	- Open the ***Visual Studio*** console tool from start menu
+	- Navigate to project folder (which already contains an executable)
+	- Run:  ``` msbuild myproject.sln ``` or ``` msbuild myproject.sln /p:Configuration=Release ```
 
 
 ## Usage
